@@ -41,6 +41,8 @@ PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-aria2-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-transmission-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-qbittorrent-zh-cn"
+PACKAGES="$PACKAGES luci-app-unblockneteasemusic"
+PACKAGES="$PACKAGES luci-i18n-adbyby-plus-zh-cn"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
